@@ -1,0 +1,15 @@
+{
+  "firmware_version": "1.0.0-vulnerable",
+  "admin_user": "admin",
+  "admin_pass_plain": "admin",
+  "admin_pass_hash": "",
+  "first_boot": true,
+  "settings": {
+    "wifi_ssid": "LabNet",
+    "wifi_pass_plain": "12345678",
+    "api_key_plain": "ABCD-1234-SECRET",
+    "ssh_enabled": true,
+    "telnet_enabled": true,
+    "ota_enabled": false
+  }
+}
